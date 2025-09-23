@@ -1,5 +1,7 @@
 *BroomCleaner Pro*
 
+Внимание, новые функции будут добавляться с каждым обновлением!!!!
+
 Прозрачная чистка macOS без сюрпризов.
 
 Сканирование мусора, древовидный предпросмотр (App → Kind → Path), удаление в Корзину с Undo-окном на 15 минут,
@@ -70,3 +72,15 @@ System Settings → Privacy & Security → Full Disk Access → включить
 	•	Расширенная аналитика по типам данных (без выхода в сеть).
 
 Предложения и PR приветствуются!
+
+
+Скриншоты: (v1.0.0)
+
+Раздел Быстрая очистка
+<img width="700" height="635" alt="Screenshot 2025-09-23 at 3 48 51 PM" src="https://github.com/user-attachments/assets/3a0ed5ab-c611-4919-b3a4-490b8a365f11" />
+
+Раздел Большие файлы
+<img width="1240" height="603" alt="Screenshot 2025-09-23 at 3 49 33 PM" src="https://github.com/user-attachments/assets/04e3d570-2e7b-435b-8072-5fb4a57a013d" />
+
+Настройки
+<img width="718" height="608" alt="Screenshot 2025-09-23 at 3 50 48 PM" src="https://github.com/user-attachments/assets/3ce11d4f-0d80-47f5-a078-ed7351dc1b71" />
