@@ -74,13 +74,14 @@ System Settings → Privacy & Security → Full Disk Access → включить
 Предложения и PR приветствуются!
 
 
-Скриншоты: (v1.0.0)
+Скриншоты: (v1.0.1ж)
 
 Раздел Быстрая очистка
-<img width="700" height="635" alt="Screenshot 2025-09-23 at 3 48 51 PM" src="https://github.com/user-attachments/assets/3a0ed5ab-c611-4919-b3a4-490b8a365f11" />
+<img width="911" height="771" alt="Screenshot 2025-09-25 at 14 03 00" src="https://github.com/user-attachments/assets/757a4f6b-18f1-4f30-b893-677aa9265a1b" />
+
 
 Раздел Большие файлы
 <img width="1240" height="603" alt="Screenshot 2025-09-23 at 3 49 33 PM" src="https://github.com/user-attachments/assets/04e3d570-2e7b-435b-8072-5fb4a57a013d" />
 
 Настройки
-<img width="718" height="608" alt="Screenshot 2025-09-23 at 3 50 48 PM" src="https://github.com/user-attachments/assets/3ce11d4f-0d80-47f5-a078-ed7351dc1b71" />
+<img width="709" height="605" alt="Screenshot 2025-09-25 at 14 13 30" src="https://github.com/user-attachments/assets/c91d5db5-5ae1-4133-8fcf-2cee9f8800b1" />
